@@ -3,7 +3,7 @@
 ## Overview
 **CoVLM** addresses the detection of out-of-context misinformation, specifically where a real image is paired with an incorrect caption to create fake news. Our framework leverages a semi-supervised approach, using both limited labeled data and a large corpus of unlabeled data to detect misinformation effectively, even in highly imbalanced datasets.
 
-![Intro Image](path_to_intro_image.png)
+![Intro Image]([path_to_intro_image.png](https://github.com/devank3/CoVLM/blob/main/Figure/Figure1.pdf))
 
 ## Key Features
 - **Semi-supervised learning**: Efficiently handles scenarios with limited labeled data and a large amount of unlabeled image-text pairs.
