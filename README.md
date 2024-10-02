@@ -20,8 +20,6 @@ The framework is trained and tested on several benchmark datasets for fake news 
 
 These datasets offer challenging real-world scenarios with imbalanced data distributions.
 
-![Dataset Example](path_to_dataset_example_image.png)
-
 ## Installation
 Clone the repository and install the required dependencies:
 
